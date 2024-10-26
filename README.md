@@ -1,5 +1,5 @@
 # 💫 About me
-Hi! My name is Alex.
+Hi! My name is Alex.</br>
 🔭 I’m currently working on various projects involving ASP.NET and Angular applications. Additionally, I collaborate with colleagues on game development using GameMaker: Studio and Unity 3D, publishing under Eternal CODE Studio.<br>🤝 I’m looking for collaboration on my project PrimeNGTableReusableComponent.<br>🌱 I’m expanding my expertise in ASP.NET and Angular applications.
 </br>
 
